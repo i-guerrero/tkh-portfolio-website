@@ -1,0 +1,15 @@
+@media (min-width: 500px) {
+    .project-section {
+        display: flex;
+      }
+      
+      .project {
+        flex-grow: 1;
+        height: 100px;
+        margin-left: 2rem;
+      }
+      
+      .project + .project {
+        margin-left: 2%;
+      }
+}
