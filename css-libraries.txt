@@ -1,0 +1,8 @@
+CSS Framework - Bootstrap
+
+References:
+https://blog.hubspot.com/website/bootstrap-css
+https://www.quickstart.com/blog/what-is-bootstrap-and-how-does-it-work/
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+Bootstrap is a CSS framework that makes it easier to build out the CSS of a website. Starting from scratch can take a while and be tedious so Bootstrap comes with prebuilt css for a developer to use.
