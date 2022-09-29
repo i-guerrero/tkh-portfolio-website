@@ -5,4 +5,6 @@ https://blog.hubspot.com/website/bootstrap-css
 https://www.quickstart.com/blog/what-is-bootstrap-and-how-does-it-work/
 https://getbootstrap.com/docs/5.2/getting-started/introduction/
 
-Bootstrap is a CSS framework that makes it easier to build out the CSS of a website. Starting from scratch can take a while and be tedious so Bootstrap comes with prebuilt css for a developer to use.
+Bootstrap is a CSS framework that makes it easier to build out the CSS of a website. Starting from scratch can take a while and be tedious so Bootstrap comes with prebuilt css for a developer to use. With the free, open-source toolkit, developers can make mobile first, responsive websites quicker.
+
+Bootstrap has a large collection of reusable pieces of code that developers can then place into the Bootstrap grid system. The grid is made of us 12 columns and pieces of code can take up any number of columns 1 - 12. This can include bootstrap drop-down menus, navigation bars, progress bars, or thumbnail images. Developers use pre-defined classes to make their own layouts.
