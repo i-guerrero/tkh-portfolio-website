@@ -22,6 +22,16 @@ nav ul li {
   margin: 0.5rem;
 }
 
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #F0EBD8;
+}
+
 footer {
     margin-top: 1rem;
     color: gray;
@@ -54,5 +64,20 @@ footer {
 
       p, h1, h2 {
         margin-left: 1rem;
+      }
+
+      #info-container {
+        display: flex;
+      }
+
+      .info {
+        flex: 1;
+        /* text-align: center; */
+        margin: 1rem;
+        /* border: 5px solid #0D1321; */
+      }
+
+      .info h2 {
+        text-align: center;
       }
 }
